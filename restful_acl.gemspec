@@ -1,10 +1,10 @@
 Gem::Specification.new do |s|
   s.name     = "restful_acl"
-  s.version  = "2.0.6"
-  s.date     = "2009-02-07"
+  s.version  = "2.0.7"
+  s.date     = "2009-06-27"
   s.summary  = "Object-level access control"
   s.email    = "matt@matt-darby.com"
-  s.homepage = "http://github.com/mdarby/restful_acl"
+  s.homepage = "http://github.com/venonc/restful_acl"
   s.description = "A Rails gem that provides fine grained access control to RESTful resources in a Rails 2.0+ application."
   s.has_rdoc = false
   s.authors  = ["Matt Darby"]
